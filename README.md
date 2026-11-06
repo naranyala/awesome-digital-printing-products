@@ -1,53 +1,40 @@
 # Awesome Digital Printing Products
 
-A hand-curated, browsable catalog of digital-print products across format, substrate, personalization level, finishing, and intended use. This repository is designed as a practical reference for product discovery, comparison, and cataloging—especially for print-on-demand, short-run, and custom personalization use cases.
+A hand-curated, browsable catalog of digital-print products across format, substrate, personalization, finishing, and intended use. It covers consumer, commercial, and industrial outputs—from photo goods and packaging to durable identification, equipment interfaces, printed electronics, and additively manufactured parts.
 
-> Scope: This list focuses on printable products and finished goods, not printers, RIP software, design tools, or general print service businesses.
+> **Scope:** This catalog focuses on products and finished goods produced by digital printing or digitally controlled material deposition. Printers, RIP software, design tools, and general print service businesses are out of scope. Some industrial applications require qualification, testing, or regulatory approval; a printed item is not automatically suitable for a given service environment.
 
 ## Why this catalog exists
 
-Digital printing has expanded far beyond paper and posters. Today, digital print workflows can produce:
-
-- photo and fine-art goods
-- retail and event signage
-- personalized gifts and keepsakes
-- apparel and textile goods
-- labels, sleeves, and packaging
-- industrial and functional printed components
-
-This catalog groups products by:
-
-- product type
-- output format
-- material or substrate
-- print method compatibility
-- personalization options
-- typical use case and fulfillment
+Digital production is used for more than paper and promotional products. Depending on the process and material, it can create visual graphics, packaging, product decoration, identification, functional layers, and physical components. This catalog groups products by product type, output format, material, process, personalization, use case, and manufacturing context.
 
 ## Table of contents
 
 - [Catalog taxonomy](#catalog-taxonomy)
 - [Product catalog](#product-catalog)
+- [Industrial products and applications](#industrial-products-and-applications)
 - [Browse by output format](#browse-by-output-format)
 - [Browse by material and substrate](#browse-by-material-and-substrate)
 - [Browse by use case](#browse-by-use-case)
-- [Production and print method map](#production-and-print-method-map)
+- [Production and process map](#production-and-process-map)
+- [Industrial selection and qualification checklist](#industrial-selection-and-qualification-checklist)
 - [Product metadata template](#product-metadata-template)
 - [Contributing](#contributing)
 
 ## Catalog taxonomy
 
-A product can be described along these dimensions:
+Describe products across these dimensions where information is available:
 
-- Category: photo, signage, packaging, apparel, etc.
-- Product family: posters, banners, labels, cards, mugs, garments, wraps, etc.
-- Variant: size, shape, color, material, format, orientation, finish
-- Substrate: paper, vinyl, canvas, acrylic, fabric, ceramic, aluminum, corrugate, etc.
-- Output form: flat sheet, folded piece, bound book, rigid panel, fabric product, wearable, label, sticker
-- Personalization: variable data, names, photos, serial numbers, QR codes, custom artwork
-- Finish: matte, gloss, lamination, embossing, framing, wrapping, hemming, die-cutting
-- Intended use: indoor/outdoor, décor, retail, events, gifts, packaging, industrial
-- Production method: inkjet, UV, DTG, DTF, dye-sublimation, toner, label press, direct-to-object
+- **Category and family:** such as packaging / folding carton or industrial / equipment label.
+- **Variant:** size, shape, color, format, orientation, revision, or finish.
+- **Substrate:** paper, film, textile, metal, ceramic, glass, board, polymer, or composite.
+- **Output form:** sheet, roll, folded or bound item, rigid panel, wearable, label, coated surface, or 3D part.
+- **Process:** inkjet, electrophotographic, UV, dye-sublimation, direct-to-garment, digital label printing, or additive manufacturing.
+- **Personalization and data:** names, images, serials, barcodes, QR codes, variable text, or revision identifiers.
+- **Finishing and assembly:** cutting, laminating, binding, coating, hemming, die-cutting, mounting, or assembly.
+- **Use environment:** indoor/outdoor, temperature, chemicals, abrasion, UV exposure, wash, or other relevant conditions.
+- **Production context:** prototype, one-off, spare part, short run, scheduled replenishment, or volume production.
+- **Evidence and source:** product specification, test evidence, supplier documentation, and date checked.
 
 ## Product catalog
 
@@ -55,293 +42,308 @@ A product can be described along these dimensions:
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Photo prints | wallet, 4x6, 5x7, 8x10, 11x14, square, panoramic | individual prints or print packs |
-| Poster prints | small, large, panoramic, custom dimensions | rolled or flat poster |
-| Wall art | single panel, triptych, split panel, framed | mounted or framed artwork |
-| Canvas prints | gallery wrap, float frame, split panel | stretched canvas ready to hang |
-| Fine-art prints | archival paper, rag paper, textured stock | collectible art print |
-| Metal prints | aluminum, brushed finish, matte/gloss | rigid wall panel |
-| Acrylic prints | direct print or face mount | glossy rigid display panel |
-| Photo books | softcover, hardcover, lay-flat | bound photo book |
-| Photo calendars | wall, desk, mini, magnetic | date-based print product |
-| Greeting and occasion prints | family portraits, holiday cards, announcements | prints or card sets |
-| Collage prints | multi-image layouts, grid formats | printed collage on paper or rigid substrate |
-| Mounted prints | foamboard, gatorboard, MDF, photo mounting | presentation-ready display material |
+| Photo prints | Wallet, standard, square, panoramic; glossy, lustre, matte | Individual prints or print packs |
+| Poster prints | Small, large, panoramic, custom dimensions | Rolled or flat poster |
+| Wall art | Single panel, triptych, split panel, framed | Mounted or framed artwork |
+| Canvas prints | Gallery wrap, float frame, split panel | Stretched canvas ready to hang |
+| Fine-art prints | Archival paper, rag paper, textured stock | Art print |
+| Metal prints | Aluminum panel; brushed, matte, or gloss | Rigid wall panel |
+| Acrylic prints | Direct print or face mount | Rigid display panel |
+| Photo books | Softcover, hardcover, lay-flat | Bound photo book |
+| Photo calendars | Wall, desk, mini, magnetic | Date-based print product |
+| Greeting and occasion prints | Portraits, holiday cards, announcements | Prints or card sets |
+| Collage prints | Multi-image layouts, grid formats | Printed collage on paper or rigid substrate |
+| Mounted prints | Foamboard, other display board, photo mount | Presentation-ready display |
 
 ### 2) Cards, stationery, and paper goods
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Business cards | standard, square, mini, rounded corners, thick stock | printed card stack |
-| Greeting cards | flat, folded, pop-up, letterpress-like texture | greeting card set |
-| Invitations | RSVP cards, inserts, layered invites | event stationery set |
-| Postcards | standard, oversized, one-sided, two-sided | mailed or hand-distributed cards |
-| Flyers and handouts | single sheet, folded, half-sheet, A5, A6 | marketing collateral |
-| Brochures | bi-fold, tri-fold, gate fold, z-fold | folded marketing piece |
-| Booklets and catalogs | saddle-stitched, perfect-bound, wire-bound | printed booklet or catalog |
-| Menus and table cards | tent cards, flat menus, QR menus | hospitality print item |
-| Notebooks and journals | ruled, blank, grid, soft cover, hardcover | bound writing product |
-| Notepads and sticky notes | memo pads, sticky blocks, post-it style sets | office or retail stationery |
-| Stationery sets | letterheads, envelopes, writing sets | matched office or personal stationery |
-| Certificates and awards | certificate, plaque, framed acknowledgment | academic or recognition print |
-| Tickets and passes | numbered, perforated, variable data | event or access item |
-| Stickers and labels | die-cut, kiss-cut, sheet, roll | sticker sheet, label roll, product label |
-| Packaging inserts | care cards, thank-you cards, QR inserts | printed insert in product packaging |
+| Business cards | Standard, square, mini, rounded corners, thick stock | Printed card stack |
+| Greeting cards | Flat, folded, assorted sizes and stocks | Greeting card set |
+| Invitations | RSVP cards, inserts, layered invites | Event stationery set |
+| Postcards | Standard, oversized, one- or two-sided | Mailed or hand-distributed cards |
+| Flyers and handouts | Single sheet, folded, half-sheet, varied sizes | Marketing collateral |
+| Brochures | Bi-fold, tri-fold, gate-fold, Z-fold | Folded marketing piece |
+| Booklets and catalogs | Saddle-stitched, perfect-bound, wire-bound | Printed booklet or catalog |
+| Menus and table cards | Tent cards, flat menus, replaceable inserts | Hospitality print item |
+| Notebooks and journals | Ruled, blank, grid, softcover, hardcover | Bound writing product |
+| Notepads and memo pads | Glued or bound; varied sheet counts | Tear-off paper pad |
+| Stationery sets | Letterheads, envelopes, writing sets | Matched office or personal stationery |
+| Certificates and awards | Certificate, plaque insert, framed print | Recognition print product |
+| Tickets and passes | Numbered, perforated, variable data | Event or access item |
+| Stickers and labels | Die-cut, kiss-cut, sheet, roll | Sticker sheet, label roll, or individual sticker |
+| Packaging inserts | Care cards, thank-you cards, QR inserts | Printed product insert |
 
 ### 3) Books, publishing, and education
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Short-run books | paperback, hardcover, trim sizes | printed on-demand book |
-| Zines and art books | stapled, perfect-bound, folded | small-run printed publication |
-| Workbooks and manuals | training manuals, handbooks, reference books | instructional print product |
-| Children's books | board books, picture books, pop-up books | illustrated bound book |
-| Educational cards | flashcards, study cards, matching sets | classroom or training item |
-| Maps and charts | flat, folded, laminated, mounted | geographic or informational print |
-| Planners and calendars | daily planners, wall calendars, desk planners | organized time-management item |
-| Recipe books | kitchen prints, family recipe books | personalized print product |
-| Activity books | coloring books, puzzle books, activity pages | printed learning or entertainment item |
-| Classroom materials | worksheets, posters, visual aids | educational print resource |
+| Short-run books | Paperback, hardcover, varied trim sizes | Printed-to-order book |
+| Zines and art books | Stapled, perfect-bound, folded | Small-run publication |
+| Workbooks and manuals | Training manuals, handbooks, reference books | Instructional print product |
+| Children's books | Picture books, board books, varied formats | Illustrated bound book |
+| Educational cards | Flashcards, study cards, matching sets | Classroom or training item |
+| Maps and charts | Flat, folded, laminated, mounted | Geographic or informational print |
+| Planners and calendars | Daily planners, wall calendars, desk planners | Time-management product |
+| Activity books | Coloring books, puzzle books, activity pages | Printed learning or entertainment item |
+| Classroom materials | Worksheets, posters, visual aids | Educational print resource |
 
 ### 4) Signage and display graphics
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Vinyl banners | indoor, outdoor, mesh, blackout | finished banner with hems and grommets |
-| Pole banners | double-sided, seasonal, club, branded | banner for mounting on poles |
-| Yard signs | corrugated plastic, single/double-sided | stake-mounted sign |
-| Window graphics | removable vinyl, perforated vinyl, frosted film | adhesive display graphics |
-| Retail signage | shelf talkers, point-of-sale signs, menu boards | printed display asset |
-| Trade-show graphics | backdrops, booth panels, banner stands | event display setup |
-| Pop-up displays | modular graphics, fabric banners, counters | reusable exhibitor item |
-| Floor graphics | non-slip, removable, floor vinyl | printed wayfinding or marketing graphic |
-| Lightbox graphics | backlit film, fabric, translucent panel | illuminated display panel |
-| Wayfinding signage | directional boards, information signs | printed internal or external guidance |
-| Table throws and tabletop graphics | fitted covers, printed runs | branded event furniture graphics |
-| A-frame signs | sidewalk posters, sandwich boards | portable street sign |
-| Retail shelf tags | pricing labels, product tags, display signages | product information display |
+| Vinyl banners | Indoor, outdoor, mesh, blackout | Finished banner with hems or grommets |
+| Pole banners | Single- or double-sided; varied sizes | Banner for pole mounting |
+| Yard signs | Corrugated plastic, single- or double-sided | Stake-mounted sign |
+| Window graphics | Removable vinyl, perforated vinyl, frosted film | Adhesive display graphic |
+| Retail signage | Shelf talkers, point-of-sale signs, menu boards | Printed display asset |
+| Trade-show graphics | Backdrops, booth panels, banner stands | Event display graphics |
+| Pop-up displays | Modular graphics, fabric banners, counters | Reusable display system |
+| Floor graphics | Non-slip, removable, floor-rated materials | Wayfinding or marketing graphic |
+| Lightbox graphics | Backlit film, fabric, translucent panel | Illuminated display graphic |
+| Wayfinding signage | Directional boards, information signs | Interior or exterior guidance signs |
+| Table throws and tabletop graphics | Fitted covers, runners, tabletop displays | Branded event-table graphic |
+| A-frame signs | Sidewalk posters, sandwich boards | Portable street sign |
+| Retail shelf labels | Price, product, or promotional information | Shelf-edge label or tag |
 
 ### 5) Apparel, wearables, and textiles
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| T-shirts | youth, adult, oversized, performance | printed garment |
-| Hoodies and sweatshirts | zip-up, pullover, crewneck | printed garment |
-| Tank tops and athletic wear | sleeveless, performance fabrics | wearable graphic item |
-| Polos and uniforms | corporate, team, hospitality | branded garment |
-| Socks and leggings | printed patterns, custom colorways | wearable accessory |
-| Hats and caps | structured, unstructured, snapback | printed headwear |
-| Tote bags | cotton, canvas, felt, jute | reusable printed bag |
-| Aprons and workwear | kitchen, service, trade | printed or embroidered work garment |
-| Towels and home textiles | bath, kitchen, hand towels | printed textile product |
-| Pillow covers and cushions | square, lumbar, accent sizes | printed home décor piece |
-| Flags and banners | indoor/outdoor, single/double-sided | textile display item |
-| Branded uniforms and event wear | team, event, promotional wear | set of uniforms or wearable graphics |
-| Fabric by the yard | printed textile rolls | custom fabric for further manufacturing |
+| T-shirts | Youth, adult, oversized, performance | Printed garment |
+| Hoodies and sweatshirts | Zip-up, pullover, crewneck | Printed garment |
+| Tank tops and athletic wear | Sleeveless, performance fabrics | Wearable graphic item |
+| Polos and uniforms | Corporate, team, hospitality | Branded garment |
+| Socks and leggings | Sizes, patterns, custom colorways | Wearable accessory |
+| Hats and caps | Structured, unstructured, snapback | Decorated headwear |
+| Tote bags | Cotton, canvas, synthetic fabrics | Reusable printed bag |
+| Aprons and workwear | Kitchen, service, trade | Printed or decorated work garment |
+| Towels and home textiles | Bath, kitchen, hand towels | Printed textile product |
+| Pillow covers and cushions | Square, lumbar, varied sizes | Printed home décor item |
+| Flags and fabric banners | Indoor/outdoor; single- or double-sided | Finished textile display |
+| Fabric by the yard | Fabric types, widths, pattern repeats | Printed textile for further manufacture |
+| Technical textiles | Interior panels, equipment covers, soft signage | Printed and converted textile component |
 
 ### 6) Packaging, labels, and fulfillment
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Labels | product, shipping, barcode, QR, variable data | label sheet or roll |
-| Shrink sleeves | full-wrap, partial wrap, tamper-evident | sleeve applied to product |
-| Flexible packaging | pouches, sachets, wraps | printed flexible pack |
-| Folding cartons | tuck-end, mailer, pop-up, sleeve carton | retail or shipping carton |
-| Rigid boxes | gift box, premium box, sample box | premium rigid package |
-| Corrugated boxes | mailers, shipping boxes, retail display boxes | shipping-ready container |
-| Paper bags | luxury bag, merchandise bag, handle bag | printed retail bags |
-| Tissue and wrapping paper | custom printed wrap, gift wrap | printed protective or gift paper |
-| Hang tags and labels | attachment tags, labels, long tags | print product tag |
-| Product sleeves and wraps | individual packaging, multipack wraps | branded consumer packaging |
-| Food packaging labels | ingredient labels, stickers, sleeves | consumable product labeling |
-| Insert cards and care cards | instructions, warranty, QR, compliment slips | product insert |
+| Labels | Product, shipping, barcode, QR, variable data | Label sheet or roll |
+| Shrink sleeves | Full-wrap, partial-wrap, tamper-evident styles | Printed sleeve for a compatible package |
+| Flexible packaging | Pouches, sachets, wraps | Printed flexible pack |
+| Folding cartons | Tuck-end, mailer, sleeve carton | Die-cut and creased carton |
+| Rigid boxes | Gift, premium, sample box | Rigid package |
+| Corrugated packaging | Mailers, shipping boxes, display boxes | Shipping or retail container |
+| Paper bags | Merchandise, retail, varied handles | Printed bag |
+| Tissue and wrapping paper | Custom repeat, sheet, or roll | Printed protective or gift paper |
+| Hang tags | Attachment tags, varied shapes and holes | Printed product tag |
+| Product sleeves and wraps | Individual or multipack formats | Branded package component |
+| Food packaging labels | Ingredient, product, and date information | Printed label; suitability must be verified for intended use |
+| Inserts and care cards | Instructions, warranty, QR, thank-you notes | Printed packaging insert |
 
 ### 7) Home, gifts, and personalized products
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Mugs and drinkware | ceramic, stainless, tapered, travel mugs | personalized drinkware |
-| Tumblers and bottles | insulated, straight wall, sport bottles | branded or custom drinkware |
-| Phone cases | silicone, hard shell, leather-style, wallet cases | custom device case |
-| Puzzle and games | piece counts, box art, custom image puzzles | personalized entertainment product |
-| Magnets and whiteboard products | magnets, dry-erase boards, calendar boards | functional display or reminder product |
-| Coasters and trivets | cork, ceramic, slate | personalized home accessory |
-| Keychains and tags | acrylic, metal, leather, zipper pull | gift or promotional item |
-| Ornaments and keepsakes | holiday, memorial, keepsake | personalized item |
-| Personalized tiles and plaques | desk, wall, memorial, name plaque | home or office décor |
-| Custom desk accessories | mouse pads, desk mats, organizers | branded office product |
-| Photo gifts | calendars, frames, calendars, ornaments | kept-personalized gift |
-| Small novelty items | bookmarks, bottle openers, pens, magnets | promotional or gift product |
+| Mugs and drinkware | Ceramic, stainless, tapered, travel mugs | Decorated drinkware |
+| Tumblers and bottles | Insulated, straight-wall, sport bottles | Branded or personalized drinkware |
+| Phone cases | Device models, hard shell, flexible materials | Custom device case |
+| Puzzles and games | Piece counts, custom images, box art | Personalized game product |
+| Magnets and boards | Flexible or rigid magnets, dry-erase boards | Functional display or reminder item |
+| Coasters and trivets | Cork, ceramic, slate, varied shapes | Home accessory or set |
+| Keychains and tags | Acrylic, metal, leather-style materials | Gift or promotional item |
+| Ornaments and keepsakes | Holiday, memorial, personalized designs | Personalized item |
+| Tiles and plaques | Desk, wall, memorial, name plaque | Home or office décor |
+| Desk accessories | Mouse pads, desk mats, organizers | Branded workspace product |
+| Playing cards | Standard or custom deck, variable backs | Printed deck, optionally boxed |
+| Small promotional items | Bookmarks, bottle openers, pens, magnets | Gift or promotional product |
 
 ### 8) Retail, events, and promotional goods
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Event badges and passes | name badges, conference badges, access badges | personalized access item |
-| Wristbands | paper, silicone, fabric, sequentially numbered | attendee or event item |
-| Loyalty cards | plastic or paper, magnetic stripe or QR | customer retention item |
-| Gift cards and vouchers | physical voucher, custom design, serial numbers | redeemable print product |
-| Promo decals and stickers | die-cut vinyl, temporary decals | branded or promotional graphic |
-| Door hangers | single- or double-sided, perforated | promotional or hospitality product |
-| Tabletop menus and cards | tent cards, folded menus, place cards | hospitality or event service item |
-| Sponsor signage | booth branding, stage signage, temporary banners | event/activation collateral |
-| Branded merchandise | pens, tote bags, mugs, keychains | promotional giveaway |
-| POP display items | standees, shelf cards, counter displays | point-of-sale display |
-| Event backdrops | step-and-repeat, custom banner, fabric wall | event branding product |
+| Event badges and passes | Names, photos, access levels, barcodes | Personalized access item |
+| Wristbands | Paper, fabric, sequentially numbered | Attendee or event item |
+| Loyalty cards | Paper or plastic; QR or barcode options | Customer card |
+| Gift cards and vouchers | Flat or folded; serial numbers, envelopes | Redeemable print product |
+| Promotional decals | Die-cut vinyl, temporary decals | Branded graphic |
+| Door hangers | Single- or double-sided, perforated | Promotional or hospitality product |
+| Menus and place cards | Tent cards, folded menus, place cards | Hospitality or event item |
+| Sponsor signage | Booth branding, stage signage, banners | Event collateral |
+| Branded merchandise | Pens, tote bags, mugs, keychains | Promotional goods |
+| Point-of-purchase displays | Standees, shelf cards, counter displays | Retail display item |
+| Event backdrops | Step-and-repeat, custom banner, fabric wall | Event branding graphic |
 
 ### 9) Workspace, interior, and architecture
 
 | Product | Common variants | Typical finished output |
 | --- | --- | --- |
-| Wallpaper and wall murals | peel-and-stick, paste-the-wall, custom repeating panels | decorative wallcovering |
-| Privacy vinyl | frosted, patterned, opaque | window film for privacy |
-| Acoustic panels | printed fabric, wall panels, acoustic tiles | functional décor product |
-| Office signage | room signs, desk plates, nameplates | institutional signage |
-| Floor plans and site plans | mounted, laminated, full-size prints | technical planning document |
-| Architectural mockups and samples | rendered panels, printed spec panels | decision-making visual sample |
-| Custom fabric panels | acoustic, decorative, branding | printed textile wall panel |
-| Desk mats and organizers | branded office supplies | personalized functional workspace item |
-| Whiteboard and magnet boards | dry-erase, magnetic, custom-sized | office or educational tool |
+| Wallpaper and wall murals | Peel-and-stick, paste-applied, panelized | Decorative wallcovering |
+| Privacy film | Frosted, patterned, opaque | Window film |
+| Acoustic panels | Printed fabric, wall panels, tiles | Decorative acoustic product |
+| Office signage | Room signs, desk plates, nameplates | Identification sign |
+| Floor plans and site plans | Mounted, laminated, full-size | Technical drawing or plan |
+| Architectural samples | Rendered panels, printed finish samples | Visual material or design sample |
+| Custom fabric panels | Acoustic, decorative, branded | Printed textile wall panel |
+| Whiteboard and magnetic boards | Custom-sized, printed grids or layouts | Office or educational tool |
 
-### 10) Specialty, industrial, and functional print
+## Industrial products and applications
 
-| Product | Common variants | Typical finished output |
-| --- | --- | --- |
-| Control-panel overlays | printed film overlays, membrane style | interface or control panel component |
-| Industrial labels | barcode labels, compliance labels, asset tags | durable identification label |
-| Safety and warning signage | hazard labels, instruction signs, durable prints | compliance signage |
-| Equipment labels | serialized labels, QR-coded part labels | asset tracking item |
-| Technical diagrams | laminated instructions, visual guides | printed procedure or schematic |
-| Prototype and mockup graphics | packaging mockups, product wraps, decals | sample or prototype visual |
-| Custom membrane switch graphics | user interface overlays | functional printed membrane |
-| Printed educational displays | tactile learning aids, visual educational kits | training and classroom item |
+Industrial print is not limited to durable labels. Digital processes are used for identification, equipment interfaces, product decoration, packaging, textile components, functional layers, and tooling or end-use parts. The items below are product families and application areas—not claims that every process or supplier can meet every specification.
+
+| Industrial product family | Example outputs | Common digital process families | Specifications to verify |
+| --- | --- | --- | --- |
+| Product identification and traceability | Asset labels, nameplates, serial labels, barcode/QR labels, wire and cable markers | Digital label printing, thermal transfer, inkjet coding/marking, UV print | Adhesion, legibility, abrasion, chemicals, temperature, barcode grade, traceability data |
+| Packaging coding and variable data | Lot/date codes, batch IDs, serialized cartons, variable text and codes | Continuous or drop-on-demand inkjet, laser coding/marking, digital label and packaging presses | Line speed, substrate, code contrast, permanence, verification, data integration |
+| Equipment graphics and operator interfaces | Front panels, control-panel overlays, legends, membrane-switch graphic layers, instrument scales | UV or screen-like digital graphic printing, digital cutting, printed conductive layers where qualified | Dimensional fit, abrasion, chemicals, backlighting, adhesives, tactile requirements, electrical performance |
+| Industrial decals and durable graphics | Machine decals, safety/instruction graphics, fleet markings, equipment wraps | UV, solvent/latex/aqueous wide-format inkjet, digital label printing | Outdoor exposure, cleaning agents, temperature cycling, adhesion, required safety standards |
+| Printed electronics and functional films | Conductive traces, antenna patterns, sensors, heaters, flexible circuits, dielectric or insulating layers | Inkjet, aerosol-jet, and other digitally patterned material-deposition processes | Electrical performance, layer registration, curing, flex life, encapsulation, yield, application-specific qualification |
+| Technical and performance textiles | Interior trim, soft signage, equipment covers, industrial fabric panels | Digital textile inkjet, dye-sublimation, direct-to-fabric processes | Fiber compatibility, colorfastness, abrasion, flame requirements, wash, dimensional stability |
+| Decorated industrial components | Appliance panels, vehicle interior trim, instrument panels, shaped product surfaces | UV flatbed, direct-to-object inkjet, transfer decoration, digital film graphics | Surface preparation, geometry, adhesion, abrasion, heat, cleaning, production consistency |
+| Architectural and construction finishes | Printed glass, decorative panels, tile graphics, wallcoverings, wayfinding panels | Ceramic inkjet, UV flatbed, digital textile or roll-to-roll processes | Weathering, UV exposure, cleaning, fire/building requirements, substrate compatibility, installation |
+| Additively manufactured parts and tooling | Fixtures, jigs, prototypes, housings, ducts, brackets, patterns, low-volume components | Polymer, metal, ceramic, or composite additive manufacturing (3D printing) | Material/process qualification, mechanical properties, tolerances, anisotropy, fatigue, post-processing, inspection |
+| Industrial packaging and short-run conversion | Custom cartons, protective packaging, sample packs, product sleeves | Digital corrugated, folding-carton, flexible-packaging, and label presses | Board or film grade, converting tolerances, compression/protection needs, barrier properties, product compatibility |
+| Medical, laboratory, and pharmaceutical identification | Specimen labels, equipment labels, serialized packaging, instructions, tamper-evident labels | Digital label printing, variable-data coding, wide-format graphics | Legibility, serialization, adhesive/material compatibility, data integrity, applicable regulatory and quality-system controls |
+| Aerospace, automotive, and transport graphics | Part labels, cabin/interior graphics, fleet markings, maintenance instructions | Digital label printing, inkjet, UV graphics, digitally cut films | Approved material/process, flammability, chemicals, temperature, UV, cleaning, traceability, customer qualification |
+| Industrial documentation and visual controls | Work instructions, safety boards, process maps, maintenance charts, laminated diagrams | Toner, inkjet, wide-format print and finishing | Update control, revision identification, readability, environmental durability, placement |
+
+### Industrial scope notes
+
+- **Additive manufacturing is adjacent to 2D digital printing:** it is included because it digitally deposits or fuses material to produce physical goods, but it has distinct design, material, process-control, and qualification requirements.
+- **Digitally controlled marking is not always printing:** laser marking and similar coding methods are included as adjacent product-identification processes where useful. Keep them distinct from ink-based printing in descriptions.
+- **Printed electronics and functional materials are specialized manufacturing:** conductive or dielectric inks, sensors, heaters, antennas, and related products need application-specific engineering and verification; do not imply that a decorative-print provider can manufacture them.
+- **Industrial suitability is specification-dependent:** words such as “durable,” “outdoor,” “food-safe,” “medical-grade,” “automotive-grade,” or “aerospace-grade” require substantiation for the exact material, process, and use. Link to evidence where possible.
 
 ## Browse by output format
 
 | Output format | Examples | What to compare |
 | --- | --- | --- |
-| Flat sheet | posters, flyers, art prints, labels | size, substrate, thickness, finish |
-| Folded piece | brochures, greeting cards, invitations | fold type, inset count, folded size |
-| Bound product | books, journals, planners, calendars | binding type, page count, paper stock |
-| Cut shape | stickers, labels, decals, badges | die-line, contour, backing, sheet/roll |
-| Rigid panel | photo panels, acrylic prints, signage | thickness, edge finish, mounting method |
-| Textile | banners, flags, garments, tote bags | fabric type, print method, finishing, seams |
-| 3D or object product | mugs, phone cases, puzzles, drinkware | object geometry, print area, material compatibility |
-| Roll/continuous | banners, wallpaper, label stock, fabric | roll width, repeat, paneling, length |
-| Personalized set | cards, invitations, event kits, gift bundles | variable data, quantity, bundling, inserts |
-| Functional component | labels, overlays, control panels | durability, readability, compliance, attachment |
+| Flat sheet | Posters, flyers, art prints, labels | Size, substrate, thickness, finish |
+| Folded piece | Brochures, greeting cards, cartons | Fold type, panel count, folded dimensions |
+| Bound product | Books, journals, planners, calendars | Binding, page count, paper stock |
+| Cut shape | Stickers, labels, decals, badges | Dieline, cut type, backing, sheet or roll |
+| Rigid panel | Photo panels, signs, interface overlays | Material, thickness, edge finish, mounting |
+| Textile | Banners, flags, garments, technical fabrics | Fiber, print process, finishing, seams |
+| 3D part | Fixtures, prototypes, housings, tooling | Material, process, orientation, tolerances, post-processing |
+| Roll or continuous web | Banners, wallpaper, label stock, fabric | Roll width, repeat, paneling, length, winding |
+| Personalized set | Cards, invitations, event kits, variable-data labels | Variable fields, quantity, collation, inserts |
+| Functional layer or film | Conductive patterns, overlays, decals | Layer stack, registration, performance, protection |
 
 ## Browse by material and substrate
 
-| Material / substrate | Common product applications | Notes |
+| Material / substrate | Common applications | Notes to consider |
 | --- | --- | --- |
-| Coated paper | posters, flyers, art prints | good for image quality and finish variety |
-| Uncoated paper | stationery, journals, notepads | more natural look, often less gloss |
-| Cardstock | business cards, menus, tags | stiffness and durability for small-format print |
-| Matte board | mounts, presentation prints | rigid display surface |
-| Foam board | signs, display graphics | lightweight and rigid |
-| Corrugated board | boxes, signage, packaging | durable and cost effective |
-| Vinyl | banners, decals, window graphics, vehicle graphics | durable and flexible |
-| PVC / rigid plastic | signs, panels, point-of-sale graphics | durable and weather resistant |
-| Acrylic | company signs, display panels, premium prints | premium finish and rigidity |
-| Canvas | wall art, banners, texture-based prints | fabric surface and stretch ability |
-| Cotton and blends | t-shirts, totes, aprons, towels | comfort and absorbency for textiles |
-| Polyester fabrics | sportswear, flags, sublimation items | especially suitable for dye sublimation |
-| Ceramic | mugs, tiles, coasters | fired or glazed compatible surfaces |
-| Aluminum / metal | signs, wall art, panels | premium durability and rigidity |
-| Fabric | flags, banners, table throws, wall panels | broad use in event and décor |
-| Leather / faux leather | premium tags, folders, accessories | adds premium finish |
-| Film / laminate | labels, overlays, wraps | durable and protective |
-| Paperboard | packaging, sleeves, cartons | common for folded packaging |
+| Coated paper | Posters, flyers, art prints | Surface, ink holdout, finish |
+| Uncoated paper | Stationery, journals, notepads | Absorbency, writing properties |
+| Cardstock and paperboard | Cards, menus, tags, cartons | Caliper, stiffness, fold/crease behavior |
+| Corrugated board | Boxes, mailers, displays | Flute, strength, converting requirements |
+| Vinyl and films | Banners, decals, window graphics, labels | Adhesive, flexibility, outdoor exposure |
+| PVC and rigid plastics | Signs, panels, overlays | Plastic type, surface energy, heat resistance |
+| Acrylic and polycarbonate | Displays, panels, machine graphics | Thickness, impact, coatings, surface preparation |
+| Canvas and cotton | Wall art, garments, bags | Weave, pretreatment, color and wash behavior |
+| Polyester fabrics | Sportswear, flags, sublimation goods | Fabric construction and heat compatibility |
+| Ceramic and glass | Mugs, tiles, architectural graphics | Coating, firing or curing, thermal conditions |
+| Aluminum and other metals | Signs, panels, nameplates | Alloy, finish, pretreatment, corrosion exposure |
+| Engineering polymers | Housings, fixtures, additive parts | Grade, mechanical and thermal properties, process limits |
+| Conductive and dielectric inks | Printed circuits, antennas, sensors, functional layers | Electrical and environmental validation is essential |
+| Adhesive films and laminates | Labels, overlays, wraps | Adhesive, liner, chemical and temperature compatibility |
+| Technical textiles and composites | Covers, interior components, functional fabric parts | Fiber, coating, flame or mechanical requirements |
 
 ## Browse by use case
 
 | Use case | Typical products |
 | --- | --- |
-| Personal gifting | photo books, custom cards, mugs, ornaments, puzzles |
-| Business branding | business cards, stationery, brochures, signage, tote bags |
-| Retail marketing | posters, window graphics, shelf talkers, packaging |
-| Events and festivals | badges, banners, wristbands, table cards, backdrop graphics |
-| Interior décor | wall art, murals, pillow covers, acoustic panels |
-| Restaurant and hospitality | menus, signage, coasters, table cards, branded aprons |
-| Education | flash cards, posters, stationery, maps, classroom displays |
-| Industrial and safety | labels, overlays, warnings, control panel graphics |
-| Packaging and fulfillment | labels, cartons, sleeves, shipping boxes, inserts |
-| Photo preservation and keepsakes | canvas prints, metal prints, framed prints, albums |
-| On-demand custom goods | phone cases, notebooks, mugs, custom apparel |
+| Personal gifting | Photo books, custom cards, mugs, ornaments, puzzles |
+| Business branding | Business cards, stationery, brochures, signage, tote bags |
+| Retail marketing | Posters, window graphics, shelf labels, packaging |
+| Events and festivals | Badges, banners, wristbands, table cards, backdrops |
+| Interior décor | Wall art, murals, pillow covers, acoustic panels |
+| Restaurant and hospitality | Menus, signage, coasters, table cards, aprons |
+| Education | Flashcards, posters, maps, classroom displays |
+| Industrial identification | Asset labels, serialized tags, equipment graphics, code-marked packaging |
+| Industrial interfaces | Front panels, overlays, membrane-switch graphics, instrument labels |
+| Functional manufacturing | Printed electronics, technical textiles, additive parts, tooling |
+| Transport and fleet | Vehicle graphics, cabin/interior graphics, maintenance labels |
+| Packaging and fulfillment | Labels, cartons, sleeves, shipping boxes, inserts |
 
-## Production and print method map
+## Production and process map
 
-| Method | Best suited for | Notes |
+| Process family | Common outputs | Important considerations |
 | --- | --- | --- |
-| Inkjet / wide-format inkjet | posters, banners, wall art, photo prints | excellent for photo and large-format work |
-| Electrophotographic / laser toner | books, flyers, brochures, stationery | efficient for short-to-medium runs |
-| UV flatbed digital | signage, panels, promotional items, rigid boards | good for rigid substrates |
-| Dye sublimation | garments, polyester banners, hard goods with polyester coating | excellent color vibrancy on polyester |
-| DTG | cotton garments, apparel | good for detailed full-color garment graphics |
-| DTF | apparel, hard-to-print fabrics, transfer-based prints | flexible production and color versatility |
-| Screen printing alternative | large, simple color runs on apparel and signage | not digital, but often compared with digital decoration |
-| Digital label printing | labels, packaging, variable text, roll products | excellent for short runs and customization |
-| Direct-to-object | mugs, phone cases, some hard goods | depends on compatible object coatings |
-| Digital embossing / foil / varnish | premium packaging, stationery, luxury print | adds tactile or premium finish |
+| Aqueous, pigment, solvent, or latex inkjet | Posters, banners, photo and wall graphics | Ink/substrate pairing, drying or curing, indoor/outdoor performance |
+| Electrophotographic / toner | Books, flyers, brochures, stationery | Stock compatibility, fusing, run length, finishing |
+| UV inkjet, flatbed, or roll-to-roll | Rigid panels, signs, labels, selected objects | Surface preparation, adhesion, cure, flexibility and intended environment |
+| Digital label and packaging presses | Labels, cartons, flexible packaging | Converting, variable data, substrate and packaging suitability |
+| Continuous or drop-on-demand inkjet coding | Lot, date, batch, and variable codes | Line integration, code quality, contrast, permanence |
+| Dye-sublimation | Polyester fabrics and compatible coated blanks | Fiber/coating compatibility and heat process |
+| Direct-to-garment (DTG) | Printed garments, especially compatible textiles | Fabric color/composition, pretreatment, wash performance |
+| Direct-to-film (DTF) and transfer | Apparel and other compatible surfaces | Transfer construction, adhesion, hand feel, care and durability |
+| Digital textile inkjet | Fashion, home, display, and technical textiles | Fiber type, pretreatment, fixation, wash and light fastness |
+| Ceramic digital printing | Tile and ceramic surfaces | Glaze, firing, color stability, intended service conditions |
+| Printed material deposition | Conductive, dielectric, optical, or other functional layers | Formulation, layer registration, curing, electrical/functional verification |
+| Additive manufacturing (3D printing) | Prototypes, tooling, fixtures, components | Material/process qualification, orientation, anisotropy, inspection and post-processing |
+| Digital finishing and embellishment | Cut shapes, foil effects, varnish, texture | Substrate limits, registration, durability, finishing workflow |
+| Laser coding or marking (adjacent process) | Codes, serials, marks on parts and packages | Mark contrast, substrate response, permanence, verification |
+
+## Industrial selection and qualification checklist
+
+For industrial or regulated applications, compare the actual product specification rather than relying on a process name or marketing description:
+
+1. **Define the service environment:** substrate, mounting, exposure, temperature, humidity, UV, abrasion, cleaning chemicals, wash, and expected life.
+2. **Specify the required function:** visual identification, traceability, electrical behavior, barrier, tactile interface, mechanical function, or decoration.
+3. **Record the full construction:** substrate grade, ink or material, pretreatment, adhesive, laminate or overcoat, cure, and any assembly steps.
+4. **Set measurable acceptance criteria:** dimensions and tolerances, adhesion, legibility, color, code quality, electrical or mechanical performance, and inspection method.
+5. **Validate the production process:** representative samples, worst-case conditions, repeatability, change control, and supplier/process qualification as appropriate.
+6. **Check applicable requirements:** customer specifications, industry standards, safety requirements, and regulatory controls for the intended market and application.
+7. **Preserve traceability:** part number, revision, lot/batch, date code, serialization, source materials, and approved artwork where needed.
+8. **Plan end-of-life and service:** repair/replacement, removability, recycling, disposal, and effects of inks, coatings, adhesives, or composite materials.
+
+This is a documentation checklist, not a substitute for engineering review, testing, certification, or regulatory advice.
 
 ## Product metadata template
 
-Use this template when adding a new product to the catalog:
+Use this template when documenting a product. Include only known information; mark unverified specifications clearly.
 
 ```yaml
 product_name: "Example product"
-category: "Apparel / Signage / Packaging / Gifts / etc."
-family: "T-shirt / Poster / Label / Notebook / Mug / Banner"
+category: "Industrial / Packaging / Apparel / Signage / etc."
+family: "Equipment label / Front panel / Poster / T-shirt"
 variants:
-  - "Adult sizes S-XXL"
-  - "Black, white, navy"
-  - "Front print only"
-substrate: "100% cotton / vinyl / ceramic / paperboard / canvas / polyester"
-print_method: "DTG / UV / Inkjet / Sublimation / toner"
-output_format: "garment / flat sheet / bound product / rigid panel / roll / label"
-finish:
-  - "soft touch"
-  - "matte laminate"
-  - "hemmed edges"
-  - "rounded corners"
+  - "Size, format, or revision options"
+substrate: "Known material and grade, if specified"
+process: "Known print or material-deposition process"
+output_format: "Label / sheet / roll / panel / textile / 3D part"
+finishing:
+  - "Cutting, coating, lamination, binding, or assembly"
 personalization:
-  - "names"
-  - "photos"
-  - "serial numbers"
-  - "QR codes"
-intended_use: "retail / gifts / event / industrial / interior décor"
-artwork_requirements:
-  - "PNG at 300 DPI"
-  - "bleed 3 mm"
-  - "vector artwork preferred"
-quantity_range: "1-500 units"
-notes: "Suitable for short-run personalization and small-batch production."
+  - "Serials, variable text, barcode, QR code, or custom artwork"
+intended_use: "Documented use and environment"
+performance_requirements:
+  - "Only list sourced or tested requirements"
+artwork_or_data_requirements:
+  - "Template, dieline, file format, barcode data, revision control"
+quantity_or_run_type: "Prototype / one-off / short run / production"
+qualification_or_compliance: "Applicable documentation, if available"
 source_url: "https://example.com/product"
-last_checked: "2026-11-06"
+last_checked: "YYYY-MM-DD"
+notes: "Limitations, uncertainty, or application-specific caveats"
 ```
 
 ## Contributing
 
-Contributions are welcome. This catalog is strongest when product entries are specific, comparable, and useful for real-world ordering decisions.
+Contributions are welcome. The catalog is most useful when entries are specific, comparable, sourced, and clear about limitations.
 
 ### Contribution guidelines
 
-1. Add products under the most relevant category.
-2. Include variants and finished output clearly.
-3. Identify the substrate and likely print method when known.
-4. Note personalization options and artwork requirements when relevant.
-5. Include a source URL and date last checked whenever possible.
-6. Prefer practical product categories over vague umbrella terms.
-7. Avoid listing printers, software, or generic print services unless explicitly documenting a product family.
-
-### Suggested improvement areas
-
-- add more niche product categories such as confectionery packaging, premium labels, 3D prints, branded office systems, and custom retail fixtures
-- include best-fit print methods for each product type
-- add a section for sustainable or eco-conscious print options
-- add short-use-case lists for selling, gifting, events, and branding
-- add production volume guidance: personal, small-run, medium-run, and bulk
+1. Add products under the most relevant category; propose a category if there is a real gap.
+2. Describe the finished output, variants, substrate, and process when known.
+3. For industrial items, include the intended function and service environment where documented.
+4. Distinguish proven specifications from typical options or assumptions. Do not infer a rating from the print process alone.
+5. Link a reliable product, technical data sheet, or application source and include the date checked.
+6. Avoid unsupported claims such as “industrial grade,” “food safe,” or “weatherproof.” Cite the specific evidence and scope if such claims are necessary.
+7. Keep entries product-focused; printers, software, and generic service providers are outside the catalog scope.
+8. Avoid duplicates and keep product names concise and descriptive.
 
 ## License
 
@@ -349,4 +351,4 @@ This catalog is available under the [Creative Commons Attribution 4.0 Internatio
 
 ## Closing note
 
-This repository is intentionally broad because digital printing spans many industries. The goal is not to be exhaustive in a single pass, but to create a practical catalog that grows as more product types, applications, and materials are discovered.
+Digital printing spans consumer goods, commercial graphics, and specialized manufacturing. This catalog aims to make that range discoverable without implying that every digital process or supplier is suitable for every application. Contributions grounded in product specifications and real use cases help keep it useful.
